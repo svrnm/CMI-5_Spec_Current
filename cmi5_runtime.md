@@ -27,6 +27,7 @@ cmi5 Runtime Environment
 * [__5.0 Conceptual Model: Informative__](#concept)
 * [__6.0 LMS Requirements__](#lms_requirements)
   * [6.1 Course Structures](#course_structures)
+  * [6.2 LMS State API Requirements](#lms_state_api_requirements)
   * [6.3 LMS Statement API Requirements](#lms_statement_api_requirements)
 * [__7.0 AU Requirements__](#au_requirements)
   * [7.1 AU State API Requirements](#au_state_api_requirements)
